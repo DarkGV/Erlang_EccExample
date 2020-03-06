@@ -1,0 +1,8 @@
+[{<<"egd">>,
+  {git,"https://github.com/erlang/egd.git",
+       {ref,"1cea959544de7dd40a3284ba571a58939de57616"}},
+  1},
+ {<<"eplot">>,
+  {git,"https://github.com/psyeugenic/eplot",
+       {ref,"5d0d45b0afd38f10d430e4547cea4fd82f444d7e"}},
+  0}].
